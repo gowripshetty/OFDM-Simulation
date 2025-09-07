@@ -19,11 +19,12 @@ The system performance is evaluated using **Bit Error Rate (BER) vs SNR** for di
 ---
 
 ## 📂 Project Structure
-├── ofdm_simulation.m # Main MATLAB script
-├── README.md # Project documentation
-├── results/ # BER results in CSV
-│ └── ber_results.csv
-├── docs/ # Plots and screenshots
-│ ├── ber_plot.png
-│ └── constellation.png
-
+```text
+OFDM-Simulation/
+├── ofdm_simulation.m        # Main MATLAB script
+├── README.md                # Project documentation
+├── results/                 # BER results in CSV
+│   └── ber_results.csv
+├── docs/                    # Plots and screenshots
+│   ├── ber_plot.png
+│   └── constellation.png
